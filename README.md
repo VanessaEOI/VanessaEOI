@@ -14,4 +14,4 @@ Here is my [LinkedIn profile](https://www.linkedin.com/in/vanessa-estival/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaEOI&show_icons=true&theme=jolly)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=jolly&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=jolly&layout=compact&langs_count=4)
