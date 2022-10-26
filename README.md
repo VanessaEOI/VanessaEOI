@@ -1,12 +1,14 @@
 ### Hello, I'm Vanessa Estival 👋
 
+😄 Pronouns: she/her
+
 I have been accepted in Simplon school in Bordeaux ! 🌱
 And I am now looking for a company for an alternate training 🔭
 
 I will be trainned as application web developer specialised in DevOps
 on two main langages : JAVA and Angular
 
-😄 Pronouns: she/her
+Here is my [LinkedIn profile](https://www.linkedin.com/in/vanessa-estival/)
 
 ⚡ Fun fact: I know the NATO phonetic alphabet
 
