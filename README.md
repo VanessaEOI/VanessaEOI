@@ -12,5 +12,6 @@ Here is my [LinkedIn profile](https://www.linkedin.com/in/vanessa-estival/)
 
 ⚡ Fun fact: I know the NATO phonetic alphabet
 
-<img [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaEOI
-)](https://github.com/anuraghazra/github-readme-stats) />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaEOI
+)](https://github.com/anuraghazra/github-readme-stats)
