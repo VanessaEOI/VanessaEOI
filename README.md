@@ -1,17 +1,13 @@
-### Hello, I'm Vanessa Estival 👋
+### Hello, I'm Vanessa 👋
 
 😄 Pronouns: she/her
 
-I have been accepted in Simplon school in Bordeaux ! 🌱
-And I am now looking for a company for an alternate training 🔭
+I am a work-study student with Simplon school in Bordeaux ! 🏫
+At school one week/month and the rest of the time in my lovely company Ehtrace 💻⚕️
 
-I will be trainned as application web developer specialised in DevOps
-on two main langages : JAVA and Angular
+I am a trainee as an application web developer specialised in DevOps ♾️
+I'm working with VueJS, Angular & Spring
 
 Here is my [LinkedIn profile](https://www.linkedin.com/in/vanessa-estival/)
 
-⚡ Fun fact : I know the NATO phonetic alphabet
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaEOI&show_icons=true&theme=jolly)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=jolly&layout=compact&langs_count=4)
+⚡ Fun fact (until I find a better one ^^) : I know the NATO phonetic alphabet 
